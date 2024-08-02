@@ -25,6 +25,6 @@
     }
   ],
   "env": {
-    "DJANGO_SETTINGS_MODULE": "backend.settings.application"
+    "DJANGO_SETTINGS_MODULE": "backend.settings"
   }
 }
